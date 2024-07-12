@@ -31,6 +31,8 @@ effectively.
 ### Credit Card Transaction Report:
 
 * KPIs: Key performance indicators for credit card transactions.
+* Create a Revenue Column Using DAX Query
+* Create a Week-over-Week Measure Using DAX
 * Card Category Analysis: Analysis of transactions by card categories.
 * Quarterly Revenue Counts: Revenue generated each quarter.
 * Revenue by Education Level: Breakdown of revenue by customers' education levels.
