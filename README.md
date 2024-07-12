@@ -12,6 +12,7 @@ effectively.
 
 # Import data to SQL Server
 1.Prepare the CSV File: Ensure your CSV file is formatted correctly and ready for import.
+
 2.Import CSV File into SQL Server:
  * Open SQL Server Management Studio (SSMS)
  * Right-click on the database, select Tasks, then Import Data.
