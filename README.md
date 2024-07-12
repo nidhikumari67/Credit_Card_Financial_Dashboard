@@ -10,13 +10,22 @@ enabling stakeholders to monitor
 and analyze credit card operations
 effectively.
 
-# Import data to SQL Server
+## Import data to SQL Server
 1.Prepare the CSV File: Ensure your CSV file is formatted correctly and ready for import.
 
 2.Import CSV File into SQL Server:
  * Open SQL Server Management Studio (SSMS)
  * Right-click on the database, select Tasks, then Import Data.
  * Follow the steps in the SQL Server Import and Export Wizard to import the CSV file.
+
+## Import data from SQL Server into Power BI
+
+ * Prepare your SQL Server.
+ * Open Power BI Desktop.
+ * Click Get Data -> SQL Server database.
+ * Enter SQL Server and database information.
+ * Provide credentials.
+ * Select data to import. 
 
 ## Project Insights
 ### Credit Card Transaction Report:
